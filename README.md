@@ -1,3 +1,5 @@
+<img width="1920" height="1019" alt="Screenshot (305)" src="https://github.com/user-attachments/assets/b4ffcb17-378f-4700-b3c4-85d25c86d732" />
+
 # To‑Do List App – APM Case Study
 
 # Overview
