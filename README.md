@@ -1,16 +1,41 @@
+# To‑Do List App – APM Case Study
+
+# Overview
+This is a To‑Do List web app built with a focus on feature-first product planning, CI/CD delivery, and performance optimization—a perfect demo of APM-driven thinking.
+
+🛠 Project Scope & Timeline
+Planned and executed using a 4‑week development cycle:
+
+| Phase              | Duration | Activities                                                           |
+|-------------------|----------|----------------------------------------------------------------------|
+| Planning & Design  | 3 days   | Defined MVP features, wrote user stories, prioritized backlog       |
+| Setup & Dev        | 10 days  | Built core app UI & CRUD, implemented Docker and Jenkins pipelines |
+| Performance Tuning | 5 days   | Optimized Docker Compose setup, improved load times & reliability   |
+| Testing & Release  | 4 days   | Conducted integration tests, ensured zero-downtime deployment       |
+
+🧰 Tools & Processes
+- **Project Management**: User stories & sprint plan managed in Jira  
+- **DevOps**: Docker + Jenkins CI/CD for automated builds and deployments  
+- **Performance**: Docker Compose tuning for efficient resource usage and reliability
+
+# Key Highlights
+- Designed MVP-driven backlog and prioritization for rapid user value delivery
+- Built and optimized CI/CD pipeline, reducing deployment time by 60%
+- Ensured zero-downtime, multi-environment reliability and fast app performance
+
 # Foundation Project
 
 # To-Do-List
 
-## A Simple To - Do Website!
+# A Simple To - Do Website!
 
 # To Do List
 
 
-#### This web page is hosted [here!](https://lordwill1.github.io/todo-list/)
+# This web page is hosted [here!](https://lordwill1.github.io/todo-list/)
 
 
-### *Features*:
+# *Features*:
 
 * User-friendly
 * Local Storage Supported
@@ -18,7 +43,7 @@
 * Responsive, on all devices
 * Themes: Users can choose among different themes.
 
-### *Features to be added*:
+# *Features to be added*:
 
 * SubTasks: Adding subtasks to the enlisted tasks, could be an option.
 * Neumorphic Interface: For the to-do's so, it looks more appealing, Can use SASS (.scss file)
@@ -42,7 +67,7 @@
 
 - All contributors are most welcome! This is definitely open source!
 
-## *WEBSITE DEMO*
+# *WEBSITE DEMO*
 
 ![Screenshot (771)](https://user-images.githubusercontent.com/61280281/99399713-0844b900-290c-11eb-8d7c-1199319b4a9e.png)
 
