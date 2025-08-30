@@ -1,4 +1,30 @@
 <img width="1920" height="1019" alt="Screenshot (305)" src="https://github.com/user-attachments/assets/b4ffcb17-378f-4700-b3c4-85d25c86d732" />
+                ┌────────────────────┐
+                │   Developer (Me)   │
+                └─────────┬──────────┘
+                          │ (push code)
+                          ▼
+                 ┌───────────────────┐
+                 │     GitHub Repo    │
+                 └─────────┬─────────┘
+                           │ (webhook)
+                           ▼
+                 ┌───────────────────┐
+                 │   Jenkins Server   │
+                 │  (CI/CD Pipeline)  │
+                 └─────────┬─────────┘
+                           │ (build + test)
+                           ▼
+                 ┌───────────────────┐
+                 │    Docker Image    │
+                 └─────────┬─────────┘
+                           │ (deploy)
+                           ▼
+                 ┌───────────────────┐
+                 │  Application Run   │
+                 │ (To-Do List App)   │
+                 └───────────────────┘
+
 
 # To‑Do List App – APM Case Study
 
