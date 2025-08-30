@@ -1,31 +1,6 @@
 <img width="1920" height="1019" alt="Screenshot (305)" src="https://github.com/user-attachments/assets/b4ffcb17-378f-4700-b3c4-85d25c86d732" />
-                ┌────────────────────┐
-                │   Developer (Me)   │
-                └─────────┬──────────┘
-                          │ (push code)
-                          ▼
-                 ┌───────────────────┐
-                 │     GitHub Repo    │
-                 └─────────┬─────────┘
-                           │ (webhook)
-                           ▼
-                 ┌───────────────────┐
-                 │   Jenkins Server   │
-                 │  (CI/CD Pipeline)  │
-                 └─────────┬─────────┘
-                           │ (build + test)
-                           ▼
-                 ┌───────────────────┐
-                 │    Docker Image    │
-                 └─────────┬─────────┘
-                           │ (deploy)
-                           ▼
-                 ┌───────────────────┐
-                 │  Application Run   │
-                 │ (To-Do List App)   │
-                 └───────────────────┘
-
-
+<img width="443" height="675" alt="{225D3AA3-F65F-4D90-9522-C6533F03B9F4}" src="https://github.com/user-attachments/assets/fd922b7c-0623-4471-b8fa-54fc02a37d93" />
+       
 # To‑Do List App – APM Case Study
 
 # Overview
